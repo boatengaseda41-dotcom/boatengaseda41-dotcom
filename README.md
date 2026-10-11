@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Aseda 👋
 
-<!--
-**boatengaseda41-dotcom/boatengaseda41-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm learning to build practical machine-learning applications and developing my skills in Python, data analysis, and model evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🎓 Student Performance Predictor
+
+A machine-learning web app that estimates students' final mathematics grades using a Random Forest model.
+
+- **Language:** Python
+- **Libraries:** Pandas, scikit-learn, Joblib
+- **Web app:** Streamlit
+- **What I learned:** Data preprocessing, regression, model evaluation, and deploying an ML model in a web app.
+
+🔗 [View Student Performance Predictor](https://github.com/boatengaseda41-dotcom/Student-Performance-Predictor)
+
+*Note: The model uses historical data from two Portuguese schools and has not been validated for other education systems.*
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- Pandas and NumPy
+- Matplotlib
+- scikit-learn
+- Git and GitHub
+- Streamlit
+
+## 📚 Currently Learning
+
+- Building reliable machine-learning models
+- Evaluating model performance
+- Developing practical AI applications
+
+## 🎯 My Goal
+
+To become an AI/ML Engineer by building useful projects, learning from the developer community, and contributing to open source.
+
+## 🤝 Let's Connect
+
+I'm open to learning from other developers, collaborating on beginner-friendly projects, and contributing to open source.
+
+---
+
+*Learning in public, one project at a time.* 🚀
